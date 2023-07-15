@@ -84,7 +84,7 @@ public class MemberApp {
         
         //final JButton readBtn, updateBtn, deleteBtn, clearBtn, submitBtn;
 
-		frame = new JFrame("Jollibee Foods Corporation - CRUD Operation");
+		frame = new JFrame("Jollibee TM Foods Corporation - CRUD Operation");
 		JOptionPane.showMessageDialog(frame.getContentPane(), "Click Employee's Action: Query or New" );
 		
 		Image ficon = Toolkit.getDefaultToolkit().getImage(System.getProperty("user.dir") + "\\img\\jolli.png\\");
